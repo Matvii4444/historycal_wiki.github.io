@@ -9,6 +9,14 @@ body {
 
 
 
+h1 {
+  color: #FFFFFF;
+  background-color: #000000A6;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #FFFFFF7D;
+  font-family: 'Roboto', sans-serif;
+}
 h2 {
   color: #FFFFFF;
   background-color: #000000A6;
